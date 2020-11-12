@@ -1,5 +1,5 @@
 ### 👋 Hi there, my name is Vanessa Aoki 
-####(She/her) 
+#### (She/her) 
 
 - :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) to become a Full-Stack Web Developer
 
