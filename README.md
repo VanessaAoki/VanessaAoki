@@ -1,8 +1,8 @@
 ### 👋 Hi there, my name is Vanessa Aoki 
-#### (She/her) 
+(She/her) 
 
 
-- :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) to become a Full-Stack Web Developer
+- :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer
 
     - Currently learning HTML & CSS (+ Bootstrap), but also looking forward to become an expert in Ruby & Ruby on Rails, JavaScript, React & Redux, SQL and Database
 
