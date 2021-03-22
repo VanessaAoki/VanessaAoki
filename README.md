@@ -10,7 +10,7 @@
         - [ ] JavaScript;
         - [ ] React & Redux;
         
-[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/VanessaAoki/github-readme-stats.vercel.app/api??username=anuraghazra&show_icons=true&theme=dracula)
+[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaAoki)](https://github.com/VanessaAoki/github-readme-stats.vercel.app/api??username=VanessaAoki&show_icons=true&theme=dracula)
 
 - I’m always looking for new challenges and oportunities to colaborate!
 
