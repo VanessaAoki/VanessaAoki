@@ -19,3 +19,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula)](https://github.com/VanessaAoki/Ruby-Capstone)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=dracula)](https://github.com/VanessaAoki/TicTacToe)
+
+<a href="https://github.com/VanessaAoki/TicTacToe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=dracula" />
+</a>
+<a href="https://github.com/VanessaAoki/Ruby-Capstone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula" />
+</a>
