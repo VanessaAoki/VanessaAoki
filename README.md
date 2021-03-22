@@ -16,6 +16,9 @@
 
 - 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
 
+[![Web-scrapper](https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula)](https://github.com/VanessaAoki/Ruby-Capstone)
+
+[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=dracula)](https://github.com/VanessaAoki/TicTacToe)
 
 <a href="https://github.com/VanessaAoki/Ruby-Capstone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula" />
