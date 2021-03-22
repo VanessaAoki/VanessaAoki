@@ -5,11 +5,11 @@
     - Currently learning:
         - [x] HTML & CSS (+ Bootstrap);
         - [x] Ruby; 
+        - [x] SQL and Database;
         - [ ] Ruby on Rails;
         - [ ] JavaScript;
         - [ ] React & Redux;
-        - [ ] SQL and Database;
-
+        
 - I’m always looking for new challenges and oportunities to colaborate!
 
-- 📫 Feel free to reach me via e-mail or twitter [@VanessaSAoki](https://twitter.com/VanessaSAoki).
+- 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
