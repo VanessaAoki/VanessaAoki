@@ -10,19 +10,18 @@
         - [ ] JavaScript;
         - [ ] React & Redux;
         
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true)
+
 
 - I’m always looking for new challenges and oportunities to colaborate!
 
 - 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
 
-<!-- [![Web-scrapper](https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula)](https://github.com/VanessaAoki/Ruby-Capstone)
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true)
 
-[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=dracula)](https://github.com/VanessaAoki/TicTacToe)
 
 <a href="https://github.com/VanessaAoki/Ruby-Capstone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula" />
 </a>
 <a href="https://github.com/VanessaAoki/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=dracula" />
-</a> -->
+</a>
