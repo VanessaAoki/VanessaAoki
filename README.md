@@ -10,6 +10,8 @@
         - [ ] JavaScript;
         - [ ] React & Redux;
         
+[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/VanessaAoki/github-readme-stats.vercel.app/api??username=anuraghazra&show_icons=true&theme=dracula)
+
 - I’m always looking for new challenges and oportunities to colaborate!
 
 - 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
