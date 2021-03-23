@@ -1,6 +1,5 @@
-<p align="center">
 ![](../assets/bannef.gif)
-</p>
+
 
 - :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
 
