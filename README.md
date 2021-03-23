@@ -1,6 +1,6 @@
 
-<a target="_blank" rel="noopener noreferrer" href="/VanessaAoki/VanessaAoki/blob/main/assets/banner.gif?raw=true">
-    <img src="/VanessaAoki/VanessaAoki/raw/main/assets/banner.gif?raw=true" alt="Hello, world!" style="width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/VanessaAoki/VanessaAoki/blob/main/assets/banner.gif?raw=true">
+    <img src="https://github.com/VanessaAoki/VanessaAoki/raw/main/assets/banner.gif?raw=true" alt="Hello, world!" style="width:100%;">
 </a>
 
 - :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
