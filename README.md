@@ -14,23 +14,21 @@
 
 - I’m always looking for new challenges and oportunities to colaborate!
 
-- 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
-
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=jolly&show_icons=true" />
+        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=jolly&show_icons=true" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=jolly&layout=compact)" />
+    <a href="https://github.com/VanessaAoki/github-readme-stats">
+        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=jolly&layout=compact)" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/VanessaAoki/Ruby-Capstone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=jolly" />
+        <img alt="Ruby Capstone" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=jolly" />
     </a>
     <a href="https://github.com/VanessaAoki/TicTacToe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=jolly" />
+        <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=jolly" />
     </a>
 </p>
 
