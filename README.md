@@ -36,14 +36,14 @@
 
 
 <p align="center">
-    <a href="mailto:vanessa.aoki@outlook.com">
-        <img alt="Contact me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
+    <a href="https://www.linkedin.com/in/vanessasaoki/">
+        <img alt="Follow me" src="https://img.shields.io/twitter/follow/VanessaSAoki?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
     <a href="https://twitter.com/VanessaSAoki">
         <img alt="Follow me" src="https://img.shields.io/twitter/follow/VanessaSAoki?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
-    <a href="https://www.linkedin.com/in/vanessasaoki/">
-        <img alt="Follow me" src="https://img.shields.io/twitter/follow/VanessaSAoki?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
+    <a href="mailto:vanessa.aoki@outlook.com">
+        <img alt="Contact me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a>
 </p>
 <!-- bg-color: a960ff -->
