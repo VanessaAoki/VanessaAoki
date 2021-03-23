@@ -17,8 +17,8 @@
 - 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true">
-  <img align="center" style="min-height:205px;" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true" />
+<a style="min-height:205px;" href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=dracula&layout=compact)" />
