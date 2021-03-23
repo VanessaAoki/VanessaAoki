@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/VanessaAoki/Ruby-Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=omni" />
 </a>
 <a href="https://github.com/VanessaAoki/TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=omni" />
