@@ -18,7 +18,7 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true">
-  <img style="min-height:205px!important;" align="center" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true" />
+  <img align="center" height="205" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=dracula&layout=compact)" />
