@@ -16,10 +16,10 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=jolly&show_icons=true" />
+        <img height="205" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=jolly&show_icons=true" />
     </a>
     <a href="https://github.com/VanessaAoki/github-readme-stats">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=jolly&layout=compact)" />
+        <img height="205" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=jolly&layout=compact)" />
     </a>
 </p>
 
