@@ -1,8 +1,4 @@
 
-<a target="_blank" rel="noopener noreferrer" href="/VanessaAoki/VanessaAoki/blob/main/assets/banner.gif">
-    <img src="../assets/banner.gif" alt="Hello, world!" style="width:100%;">
-</a>
-
 - :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
 
     - Currently learning:
