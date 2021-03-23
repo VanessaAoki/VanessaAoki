@@ -1,4 +1,4 @@
-![](../assets/bannef.gif)
+![](./assets/banner.gif)
 
 
 - :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
