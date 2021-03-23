@@ -17,15 +17,15 @@
 - 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=dracula&layout=compact)" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=radical&layout=compact)" />
 </a>
 
 <a href="https://github.com/VanessaAoki/Ruby-Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=radical" />
 </a>
 <a href="https://github.com/VanessaAoki/TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=radical" />
