@@ -17,19 +17,19 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=jolly&show_icons=true" />
+        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=graywhite&show_icons=true" />
     </a>
     <a href="https://github.com/VanessaAoki/github-readme-stats">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=jolly&layout=compact)" />
+        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=graywhite&layout=compact)" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/VanessaAoki/Ruby-Capstone">
-        <img alt="Ruby Capstone" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=jolly" />
+        <img alt="Ruby Capstone" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=graywhite" />
     </a>
     <a href="https://github.com/VanessaAoki/TicTacToe">
-        <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=jolly" />
+        <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=graywhite" />
     </a>
 </p>
 
