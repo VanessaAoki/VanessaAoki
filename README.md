@@ -14,7 +14,6 @@
 
 - I’m always looking for new challenges and oportunities to colaborate!
 
-- 📫 Feel free to reach me via [e-mail](vanessa.aoki@outlook.com) or [twitter](https://twitter.com/VanessaSAoki).
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
@@ -43,7 +42,7 @@
         <img alt="Follow me" src="https://img.shields.io/twitter/follow/VanessaSAoki?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
     <a href="mailto:vanessa.aoki@outlook.com">
-        <img alt="Contact me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
+        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a>
 </p>
 <!-- bg-color: a960ff -->
