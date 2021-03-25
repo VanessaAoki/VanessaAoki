@@ -36,9 +36,9 @@
     </a>
 </p>
 
-### How to contact me
+### Contact me
 
-- I’m always looking for new challenges and oportunities to colaborate!
+- I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
 
 
 <p align="center">
