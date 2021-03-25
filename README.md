@@ -23,7 +23,6 @@
 </p>
 
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
-<br>
 
 ### Pinned Projects 
 
@@ -37,7 +36,6 @@
         <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=graywhite" />
     </a>
 </p>
-<br>
 
 ### Contact me
 
