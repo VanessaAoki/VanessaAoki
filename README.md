@@ -25,11 +25,12 @@
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 
 <hr>
+
 <details>
 <br>
-    <summary><strong>Pinned Projects</strong></summary>
+    <summary><strong>More Pinned Projects</strong></summary>
 
-- These are my current favorite projects, please take a look at them:
+These are my current favorite projects, please take a look at them:
 
 <p align="center">
     <a href="https://github.com/VanessaAoki/Ruby-Capstone">
@@ -40,13 +41,15 @@
     </a>
 </p>
 </details>
+
 <hr>
 <br>
+
 <details>
 <br>
     <summary><strong>Contact me</strong></summary>
 
-- I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
+I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vanessasaoki/">
