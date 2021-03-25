@@ -43,9 +43,8 @@ These are my current favorite projects, please take a look at them:
 </details>
 
 <hr>
-<strong>    Contact Me</strong>
+<strong>Contact Me</strong>
 <br>
-
 I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
 
 <p align="center">
