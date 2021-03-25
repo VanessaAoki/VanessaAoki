@@ -25,7 +25,7 @@
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 
 ### Pinned Projects 
-
+<details>
 - These are my current favorite projects, please take a look at them:
 
 <p align="center">
@@ -36,11 +36,12 @@
         <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=graywhite" />
     </a>
 </p>
+</details>
 
-### Contact me
+<details>
+    <summary><strong>Contact me</strong></summary>
 
 - I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vanessasaoki/">
@@ -53,4 +54,5 @@
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a>
 </p>
+</details>
 <!-- bg-color: a960ff -->
