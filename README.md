@@ -44,10 +44,7 @@ These are my current favorite projects, please take a look at them:
 
 <hr>
 
-<br>
-
-### Contact me
-<br>
+#### Contact me
 
 I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
 
