@@ -24,6 +24,11 @@
     </a>
 </p>
 
+- NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.
+
+
+## This are my current favorite projects, please take a look at them:
+
 <p align="center">
     <a href="https://github.com/VanessaAoki/Ruby-Capstone">
         <img alt="Ruby Capstone" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=Ruby-Capstone&theme=graywhite" />
