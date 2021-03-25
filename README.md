@@ -24,8 +24,11 @@
 
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 
-### Pinned Projects 
+<hr>
 <details>
+<br>
+    <summary><strong>Pinned Projects</strong></summary>
+
 - These are my current favorite projects, please take a look at them:
 
 <p align="center">
@@ -37,8 +40,10 @@
     </a>
 </p>
 </details>
-
+<hr>
+<br>
 <details>
+<br>
     <summary><strong>Contact me</strong></summary>
 
 - I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
