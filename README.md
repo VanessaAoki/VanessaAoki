@@ -44,9 +44,9 @@ These are my current favorite projects, please take a look at them:
 
 <hr>
 
-<details>
 <br>
-    <summary><strong>Contact me</strong></summary>
+<strong>Contact me</strong>
+<br>
 
 I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
 
@@ -61,6 +61,5 @@ I’m always looking for new challenges and oportunities to colaborate! Get it t
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a>
 </p>
-</details>
 <br>
 <!-- bg-color: a960ff -->
