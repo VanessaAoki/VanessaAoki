@@ -45,7 +45,8 @@ These are my current favorite projects, please take a look at them:
 <hr>
 
 <br>
-<strong>Contact me</strong>
+
+### Contact me
 <br>
 
 I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
