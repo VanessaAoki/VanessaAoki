@@ -11,6 +11,7 @@
         - [ ] JavaScript;
         - [ ] React & Redux;
         
+<br>
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
@@ -22,6 +23,8 @@
 </p>
 
 - NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.
+
+<br>
 
 ### Pinned Projects 
 
@@ -35,6 +38,8 @@
         <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=TicTacToe&theme=graywhite" />
     </a>
 </p>
+
+<br>
 
 ### Contact me
 
