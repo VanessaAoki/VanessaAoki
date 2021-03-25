@@ -43,9 +43,13 @@ These are my current favorite projects, please take a look at them:
 </details>
 
 <hr>
-<strong>Contact Me</strong>
+
+<details>
 <br>
+    <summary><strong>Contact me</strong></summary>
+
 I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
+</details>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vanessasaoki/">
