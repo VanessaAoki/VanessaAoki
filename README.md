@@ -22,7 +22,7 @@
     </a>
 </p>
 
-> *NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.*
+> *Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.*
 <br>
 
 ### Pinned Projects 
