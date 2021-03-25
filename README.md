@@ -26,8 +26,9 @@
 
 - NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.
 
+### Pinned Projects 
 
-## This are my current favorite projects, please take a look at them:
+This are my current favorite projects, please take a look at them:
 
 <p align="center">
     <a href="https://github.com/VanessaAoki/Ruby-Capstone">
@@ -38,6 +39,7 @@
     </a>
 </p>
 
+#### How to contact me
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vanessasaoki/">
