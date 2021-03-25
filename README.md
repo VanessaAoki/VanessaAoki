@@ -12,9 +12,6 @@
         - [ ] React & Redux;
         
 
-
-- I’m always looking for new challenges and oportunities to colaborate!
-
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
         <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=graywhite&show_icons=true&icon_color=a960ff" />
@@ -28,7 +25,7 @@
 
 ### Pinned Projects 
 
-This are my current favorite projects, please take a look at them:
+- These are my current favorite projects, please take a look at them:
 
 <p align="center">
     <a href="https://github.com/VanessaAoki/Ruby-Capstone">
@@ -39,7 +36,10 @@ This are my current favorite projects, please take a look at them:
     </a>
 </p>
 
-#### How to contact me
+### How to contact me
+
+- I’m always looking for new challenges and oportunities to colaborate!
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vanessasaoki/">
