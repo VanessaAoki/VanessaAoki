@@ -43,7 +43,6 @@ These are my current favorite projects, please take a look at them:
 </details>
 
 <hr>
-<br>
 
 <details>
 <br>
@@ -63,4 +62,5 @@ I’m always looking for new challenges and oportunities to colaborate! Get it t
     </a>
 </p>
 </details>
+<br>
 <!-- bg-color: a960ff -->
