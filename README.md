@@ -1,15 +1,15 @@
 ![](./assets/banner.gif)
 
 
-- :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
+:woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
 
-    - Currently learning:
-        - [x] HTML & CSS (+ Bootstrap);
-        - [x] Ruby; 
-        - [x] SQL and Database;
-        - [ ] Ruby on Rails;
-        - [ ] JavaScript;
-        - [ ] React & Redux;
+- Currently learning:
+    - [x] HTML & CSS (+ Bootstrap);
+    - [x] Ruby; 
+    - [x] SQL and Database;
+    - [ ] Ruby on Rails;
+    - [ ] JavaScript;
+    - [ ] React & Redux;
         
 <br>
 
