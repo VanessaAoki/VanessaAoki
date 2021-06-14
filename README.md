@@ -8,7 +8,7 @@
     - [x] HTML & CSS (+ Bootstrap);
     - [x] Ruby; 
     - [x] SQL and Database;
-    - [ ] Ruby on Rails;
+    - [x] Ruby on Rails;
     - [ ] JavaScript;
     - [ ] React & Redux;
         
