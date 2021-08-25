@@ -1,7 +1,7 @@
 ![](./assets/banner.gif)
 
 
-:woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
+:woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
 
 - Currently learning:
 
@@ -47,8 +47,7 @@ These are my current favorite projects, please take a look at them:
 <details>
 <br>
     <summary><strong>Contact me</strong></summary>
-
-I’m always looking for new challenges and oportunities to colaborate! Get it touch with me:
+I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
 </details>
 
 <p align="center">
