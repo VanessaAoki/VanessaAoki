@@ -9,7 +9,7 @@
     - [x] Ruby; 
     - [x] SQL and Database;
     - [x] Ruby on Rails;
-    - [ ] JavaScript;
+    - [x] JavaScript;
     - [ ] React & Redux;
         
 <br>
