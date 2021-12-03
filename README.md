@@ -3,14 +3,14 @@
 
 :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
 
-- Currently learning:
+- Currently stack:
 
     - [x] HTML & CSS (+ Bootstrap);
     - [x] Ruby; 
     - [x] SQL and Database;
     - [x] Ruby on Rails;
     - [x] JavaScript;
-    - [ ] React & Redux;
+    - [x] React & Redux;
         
 <br>
 
