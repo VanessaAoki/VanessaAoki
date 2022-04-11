@@ -1,4 +1,4 @@
-![](./assets/banner.gif)
+![](https://user-images.githubusercontent.com/66967274/162734921-ed5be2bc-a825-48f4-a8f6-59e1593eb003.gif)
 
 
 :woman_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
@@ -27,6 +27,7 @@
 <br>
 
 <details>
+
 <br>
     <summary><strong>More Pinned Projects</strong></summary>
 
