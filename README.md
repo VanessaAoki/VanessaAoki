@@ -5,12 +5,11 @@
 
 - Currently stack:
 
-    - [x] HTML & CSS (+ Bootstrap);
-    - [x] SQL and Database;
-    - [x] Ruby on Rails;
-    - [x] JavaScript;
+    - [x] JavaScript/Typescript;
     - [x] React & Redux;
     - [x] React Native
+    - [x] Ruby/Ruby on Rails;
+    - [x] SQL and Database;
         
 <br>
 
