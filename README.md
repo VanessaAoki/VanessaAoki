@@ -14,9 +14,6 @@
 <br>
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=graywhite&show_icons=true&icon_color=a960ff" />
-    </a>
 <a href="https://github.com/VanessaAoki">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=VanessaAoki&layout=compact&langs_count=8&card_width=320" />
 </a>
